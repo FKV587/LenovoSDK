@@ -1,6 +1,0 @@
-framework module LeSpeakerPluginDemo {
-  umbrella header "LeSpeakerPluginDemo.h"
-
-  export *
-  module * { export * }
-}
